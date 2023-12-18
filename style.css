@@ -489,7 +489,7 @@ padding-bottom: 1rem;
     transition: .8s all;
 }
 .know_more:hover {
-   transform: rotateX(350deg) translateX(25%);
+   transform: rotateX(350deg);
   
      transition: .8s all;
 }
